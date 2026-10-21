@@ -1,0 +1,9 @@
+ARQUIVOS DO SITE ACLA SABORES SUPREMOS
+
+Todos os arquivos deste pacote devem ficar juntos na raiz do repositório GitHub.
+
+Substitua os arquivos index.html, estilo.css e script.js pelos deste pacote.
+Envie também as seis fotos (nomes começando com bolo-) para a raiz do repositório.
+Não envie esta pasta inteira nem crie uma pasta imagens.
+
+Depois, aguarde o GitHub Pages publicar e atualize o site com Ctrl+F5.
